@@ -8,7 +8,7 @@ GitHub: https://github.com/TheShekel/Week2-EmptyVoid
 
 Exe: https://stummuac-my.sharepoint.com/:f:/r/personal/23760050_stu_mmu_ac_uk/Documents/Rapid%20Game%20Development/Week%202/Windows?csf=1&web=1&e=RbAcbH
 
-Video: 
+Video: https://youtu.be/mzuwHHLRaqg
 
 Controls: Press the Spacebar to Launch, click on the upgrade button when you have enough money to buy upgrades for your spaceship.
 
