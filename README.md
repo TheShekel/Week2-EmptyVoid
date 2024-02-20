@@ -6,7 +6,7 @@ Goal: To create one of those old Flash games like Learn to Fly.
 
 GitHub: https://github.com/TheShekel/Week2-EmptyVoid
 
-Exe: https://stummuac-my.sharepoint.com/:f:/r/personal/23760050_stu_mmu_ac_uk/Documents/Rapid%20Game%20Development/Week%202?csf=1&web=1&e=5ZMzyS
+Exe: https://stummuac-my.sharepoint.com/:f:/r/personal/23760050_stu_mmu_ac_uk/Documents/Rapid%20Game%20Development/Week%202/Windows?csf=1&web=1&e=RbAcbH
 
 Video: 
 
